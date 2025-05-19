@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_xamldesignstudio=self.webpackChunksite_xamldesignstudio||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/xamldesignstudio/blog","blogTitle":"Blog","authorsListPath":"/xamldesignstudio/blog/authors"}')}}]);

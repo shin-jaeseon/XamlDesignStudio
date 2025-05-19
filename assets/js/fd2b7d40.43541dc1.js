@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_xamldesignstudio=self.webpackChunksite_xamldesignstudio||[]).push([[3560],{5191:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/xamldesignstudio/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
